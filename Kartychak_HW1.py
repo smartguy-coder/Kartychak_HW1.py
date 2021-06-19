@@ -5,3 +5,4 @@ print('STEP 4: third commit branch master - final task 2')
 
 # task 3 - branch develop
 print('STEP 5: first commit branch develop')
+print('STEP 6: second commit branch develop')
