@@ -10,3 +10,4 @@ print('STEP 7: third commit branch develop - final task 3')
 
 # task 4 - branch issue53
 print('STEP 8: first commit branch print issue53')
+print('STEP 9: second commit branch print issue53')
